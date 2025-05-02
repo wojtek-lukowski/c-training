@@ -1,15 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[])
-{
-  printf("Number of arguments: %d\n", argc);
-
-  printf("Arguments provided:\n");
-  for (int i = 0; i < argc; i++)
-  {
-    printf("argv[%d]: %s\n", i, argv[i]);
-  }
-
+int main()
+{ // Your code here
+  printf("Enter a number: ");
+  int number = 0;
+  scanf("%d", &number);
+  printf("You entered: %d\n", number);
   return 0;
 }
