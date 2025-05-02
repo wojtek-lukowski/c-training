@@ -1,0 +1,13 @@
+total 408
+-rwxr-xr-x  1 wojtek_lukowski  staff  33552 Feb  4 18:05 cpu
+-rw-r--r--  1 wojtek_lukowski  staff    319 Feb  4 18:05 cpu.c
+-rw-r--r--  1 wojtek_lukowski  staff     30 Feb  5 12:23 newfile.txt
+-rwxr-xr-x  1 wojtek_lukowski  staff  33647 Feb  4 18:27 p1
+-rw-r--r--  1 wojtek_lukowski  staff    405 Feb  4 18:26 p1.c
+-rwxr-xr-x  1 wojtek_lukowski  staff  33679 Feb  4 18:29 p2
+-rw-r--r--  1 wojtek_lukowski  staff    479 Feb  4 18:29 p2.c
+-rwxr-xr-x  1 wojtek_lukowski  staff  33887 Feb  5 12:18 p3
+-rw-r--r--  1 wojtek_lukowski  staff    884 Feb  5 12:17 p3.c
+-rwxr-xr-x  1 wojtek_lukowski  staff  33935 Feb  5 14:07 p4
+-rw-r--r--  1 wojtek_lukowski  staff    657 Feb  5 14:07 p4.c
+-rwx------  1 wojtek_lukowski  staff      0 Feb  5 14:07 p4.txt
